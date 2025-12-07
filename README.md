@@ -11,7 +11,7 @@ A clean, interactive Tic-Tac-Toe game built using HTML, CSS, and Vanilla JavaScr
 
 🚀 Live Demo
 Hosted on GitHub Pages:
-👉 (paste your deployed link here once live)
+👉 https://sujityadav-05.github.io/tic-tac-toe/
 
 🧰 Tech Stack
 Technology	Purpose
